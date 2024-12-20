@@ -1,5 +1,8 @@
 # This Repository provide cheat-sheets for your day-to-dat Data Science and Analytics workflow 🌀
 
+**Cheat sheets are especially useful when juggling multiple tools and technologies.**
+Cheat sheets are incredibly helpful in the day-to-day life of a data scientist or analyst as they provide quick, easy access to essential information, tools, and techniques.
+
 ## Quick, concise references for commonly used concepts, tools, and workflows. 
 - **1. Boosts Productivity**
 Saves time by providing ready-made code snippets, formulas, and workflows.
